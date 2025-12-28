@@ -617,6 +617,8 @@ require('lazy').setup({
         },
         gopls = {},
         html = {},
+        jsonls = {},
+        prettier = {},
         terraform = {},
         terraformls = {},
       }
